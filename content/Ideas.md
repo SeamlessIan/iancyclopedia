@@ -3,9 +3,6 @@ title: "Ideas"
 date: 2017-04-12
 ---
 
-## Overdrive Hold Time Remaining Calculation App
-This app will get a list of your holds each day, and see what number you are in the queue and how many copies are available. Based on the rate of change in queue position, it will project how long it will take before you can get your book.
-
 ## Your Limit
 A calculator in which you put the maximum you've ever been able to charge for your work per hour. Enter a few more variables like the amount of time you'd like off and when you hope to retire, and the app calculates the maximum amount of money you could ever make with that plan.
 
