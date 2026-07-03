@@ -6,15 +6,32 @@ A personal wiki by [[Ian Melchior]].
 
 Opinions are my own / Policies are binding
 
-## Browse
+## Highlights
 
 - [[Analogies]]
-- [[Books]]
-- [[Hip Restaurant Naming Conventions]]
 - [[Ideas]]
+- [[Policies]]
+- [[Hip Restaurant Naming Conventions]]
+- [[Oxymorons]]
+- [[The Journey (Not the Destination)]]
+
+## Books
+
+- [[Books]] — reading list and notes
+- [[Deep Work]]
+- [[Antifragile]]
+- [[Sapiens]]
+- [[Essentialism]]
+- [[Principles]]
+- [[Thinking, Fast and Slow]]
+
+## Personal
+
 - [[Media blackout challenge]]
 - [[Mental clarity challenge]]
 - [[Movies]]
-- [[Oxymorons]]
-- [[Policies]]
-- [[The Journey (Not the Destination)]]
+- [[Music]]
+- [[Gaming]]
+- [[Poker]]
+
+Browse all articles using the explorer or search.

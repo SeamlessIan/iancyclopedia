@@ -1,27 +1,147 @@
 ---
-title: "Books"
-date: 2017-03-31
+title: Books
 ---
 
+Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d887143c19a72c10ed0be0ce7
+
 ## Reading
+
+### [[The Myth of Sisyphus and Other Essays]] - Albert Camus
+
+### [[The Philosophy, Practice, and Science of Crime Scene Investigation (Part I)]] - Robert C. Shaler
+### [[I Will Teach You to be Rich]] - Ramit Sethi
+### [[Traction]] - Gabriel Weinberg
+
+## Read (rÄd)
+
+### [[Little Gold Book]] - Phil Gordon
+
+### [[Making People Talk]] - Barry Farber
+
+### [[No More Mr. Nice Guy]] - Robert Glover
+
+### [[Rainbow Six]] - Tom Clancy
+
+### [[Crime and Punishment]] - Fyodor Dostoevsky
+
+### [[The Hard Thing about Hard Things]] - Ben Horowitz
+### [[Spiral Dynamics]] - Don Beck
+### [[No Country for Old Men]] - Cormac McCarthy
+### [[The Coddling of the American Mind]] - Greg Lukianoff and Jonathan Haidt
+### [[The Gulag Archipelago: Vol. III]] - Aleksandr Solzhenitsyn
+### [[Every Hand Revealed]] - Gus Hansen
+### [[The Gulag Archipelago: Vol. II]] - Aleksandr Solzhenitsyn
+### [[The Mistletoe Murder: And Other Stories]] - P.D. James
+### [[Long Way Down]] - Jason Reynolds
+### [[ Fear and Loathing on the Campaign Trail '72]] - Hunter S. Thompson
+### [[Red Dragon]] - Thomas Harris
+### [[Hannibal Rising]] - Thomas Harris
+### [[Phil Gordon's Little Blue Book]]
+### [[The Wind Through the Keyhole]] - Stephen King
+### [[The Beginning of Infinity]] - David Deutsch
+### [[The Running Man]] - Richard Bachman
+### [[12 Rules for Life]] - Jordan Peterson
+### [[The Gulag Archipelago: Vol. I]] - Aleksandr Solzhenitsyn
+### [[On Writing]] - Stephen King
+"As all sophomoric humorists must be, I was totally blown away by my own wit." - that struck a little too close to home.
+### [[Essentialism]] - Greg McKeown
+### [[Peter Pan]] - J. M. Barrie
+### [[The Shallows]] - Nicholas G. Carr
+### [[Good Omens]] - Neil Gaiman & Terry Pratchet
+### [[Principles]] - Ray Dalio
+### [[Phil Gordon's Little Green Book]] - Phil Gordon
+### [[The Score Takes Care of Itself]] - Bill Walsh, Craig Walsh, and Steve Jamison
+### [[The Haunting of Hill House]]- Shirley Jackson
+### [[The Power of Habit]] - Charles Duhigg
+### [[Wizard and Glass]] - Stephen King
+### [[Mr. Mercedes]] - Stephen King
+### [[The Outsider]] - Stephen King
+### [[One Hundred Years of Solitude]] - Gabriel GarcÃ­a MÃ¡rquez
+### [[The Lessons of History]] - Will and Ariel Durant
+### [[The Eye of the World]] - Robert Jordan
+### [[History of the Peloponnesian War]] - Thucydides
+### [[We Have Always Lived in the Castle]] - Shirley Jackson
+### [[Heart of Darkness]] - Joseph Conrad
+### [[Ready Player One]] - Ernest Cline
+### [[The Power of Habit]]  - Charles Duhigg
+### [[The Art of Being]] - Erich Fromm
+### [[The Moon is a Harsh Mistress]] - Robert Heinlein
+### [[The Whistling Season]] - Ivan Doig
+### [[11/22/63]] - Stephen King
+### [[Misery]] - Stephen King
+### [[Prey]] - Michael Crichton
+### [[Finders Keepers]] - Stephen King
+### [[Dune]] - Frank Herbert
+### [[A Storm of Swords]] - George R. R. Martin
+### [[A Clash of Kings]] - George R. R. Martin
+### [[Extreme Ownership]] - Jocko Willink and Leif Babin
+### [[Deep Work]] - Cal Newport
+### [[The Putin Interviews]] - Oliver Stone
+### [[The Dead Zone]] - Stephen King
+### [[The Drawing of the Three]] - Stephen King
+### [[A Clash of Kings]] - George R. R. Martin
+### [[History of Western Philosophy]] - Bertrand Russell
+### [[Salem's Lot]] - Stephen King
+### [[This Will Make You Smarter]] - edited by John Brockman
+### [[An Enquiry Concerning Human Understanding]] - David Hume
+### [[How We Learn]] - Benedict Carey
+### [[The Stand]] - Stephen King
+### [[Sex at Dawn]] - Chistopher Ryan and Cacilda Jetha
+### [[Needful Things]] - Stephen King
+### [[Pet Sematary]] - Stephen King
+### [[Good Strategy, Bad Strategy]] - Richard Rumelt
+### [[Man's Search for Meaning]] - Victor Frankl
+### [[The Goal: A Process of Ongoing Improvement]] - Eliyahu M. Goldratt
+### [[Homo Deus]] - Yuval Noah Harari
+### [[On Killing]] - Dave Grossman
+### [[Cat's Cradle]] - Kurt Vonnegut
+### [[Based on a True Story]] - Norm Macdonald
+### [[1491]] - Charles C. Mann
+### [[Lolita]] - Vladimir Nabokov
+### [[On the Shortness of Life]] - Seneca the Younger
+### [[A People's History of the United States]] - Howard Zinn
+### [[The Heart of Everything There Is]] - Bob Drurin & Tom Clavin
+### [[The Remains of the Day]] - Kazuo Ishiguro
+### [[The LifeâChanging Magic of Tidying Up: The Japanese Art of Decluttering...]] - Marie Kondo
+### [[Sapiens]] - Yuval Noah Harari
+### [[The Nightengale]] - Kristin Hannah
+### [[American Gods]] - Neil Gaiman
+### [[Zen and the Art of Motorcyle Maintenance]] - Robert Pirsig
+### [[The Charisma Myth]] - Olivia Fox Cabane
+### [[A Gentleman in Moscow]] - Amor Towles
+### [[The Last Wish]] - Andrzej Sapkowski
+### [[ Hillbilly Elegy]] - J.D. Vance
+### [[Crucial Conversations]] - Al Switzler, Joseph Grenny, Kerry Patterson, and Ron McMillan
+### [[The Stranger]] - Albert Camus
+### [[Catch-22]] - Joseph Heller
+### [[The Underground Railroad]] - Colson Whitehead
+### [[A New Earth]] - Eckhardt Tolle
+### [[The Autobiography of Benvenudo Cellini]] - Benvenudo Cellini
+### [[Brave New World]] - Alduous Huxley
+### [[Antifragile]] - Nassim Nicholas Taleb
+### [[Super Rich]] - Russell Simmons
+### [[The Good Earth]] - Pearl S. Buck
+### Norse Mythology - Neil Gaiman
 ### Better - Atul Gawande
-## Scheduled for 2017
-### Antifragile
-### Becoming a Supple Leopard
-### Good to Great
-### The Education of a Bodybuilder
-## Read (rĕd)
-### Better - Atul Gawande
+
 - Read March 2017
+
 ### The Curious Incident of the Dog in the Night-Time - Mark Haddon
+
 - Read March 2017
-### Linchpin – Seth Godin
+
+### Linchpin â Seth Godin
+
 - Read March 2017
 - Summary: Care about what you're doing.
+
 ### The Subtle Art of Not Giving a Fuck - Mark Manson
 Read March 2017
 Vocab: 
+
 - desiderata: something wanted or desired.
+
+### Think like a Freak - Levitt/Dubner
 ### The Kybalion: Hermetic Philosophy - The Three Initiates
 Read February 2017
 
@@ -29,46 +149,23 @@ I resonate with the principle of rhythm, the principle of polarity, and the prin
 All of the content of this book could probably have been communicated in about 1/5 the words.
 ### The Art of Learning - Josh Waitzkin
 Read February 2017. Main points:
+
 - Make smaller circles: go deeper, not broader
 - get in the rhythm of intense bursts of effort, then complete relaxation
-### Thinking, Fast and Slow - Daniel Kahneman
-Read January 2017
-### The Checklist Manifesto - Atul Gawande
-Read December 2016 / January 2017
-#### Takeaways
-Our modern world has grown so complex that we can no longer reasonably expect individuals to consistently and accurately navigate specialized procedures with their memory and conscious awareness alone (and we expect them to at our peril). However, industries including medicine, aviation, and construction have implemented simple checklists. These simple tools can have drastic results when it comes to ensuring that steps are not overlooked and that performance and quality are consistent.
 
-A good checklist should have the following qualities:
-- they should be designed to be used at natural pause-points in the process
-- <10 items per list is ideal, and the list should fit on a single page
-- the checks should come at a time that corrective action is still possible
-- wording should be simple and exact
-- the items being checked should be important, but possible to overlook
-- checks should include both actions that need to be taken, and communication that needs to be... communicated
-- the list should be tested in the real world and revised
-#### Vocab
-- Lilt: A cadence or tonal rise/fall in speech ("lilting voice")
-- Brogue: A leather shoe with an ornamental pattern (of perforations)
-- Vertiginous: causing or related to vertigo
-- Taylorized: Named after Frederick Winslow Taylor, author of The Principles of Scientific Management. Seems to have to do with industrializing and standardizing a process, possibly with the implication that some amount of human touch has been lost.
-- Sanguine - Optimistic or positive, especially in an apparently bad or difficult situation
-- Cockamamie - ridiculous, implausible
-- Laporoscopic (surgery) - aka Minimally Invasive Surgery, bandaid surgery, or keyhole surgery, is a  modern surgical technique in which operations are performed far from their location through small incisions (usually 0.5–1.5 cm) elsewhere in the body. Usually CO2 is insufflated into the region to * provide a working space, because CO2 is non-flammable and can easily be absorbed and purged from the body via respiration
-- Jug-eared - having protuberant ears
-- (Protuberant - protruding, bulging)
-- Parquet - the ground floor of a theate or auditorium, or flooring composed of wooden blocks arranged in a geometric pattern
-- Bluff - direct in speech or behavior, but in a good-natured way
-- Lodestar - a star used to guide the course of a ship (Polaris for most of us)
-- Vicissitude - a change of circumstances or fortune (usually for the worse)
-- Bereft - deprived or lacking something (especially a nonmaterial asset)
-- Disarthria - an inability to speak
-- dun-colored: Grey-gold or tan. Originates from a description of a horse gene.
-- Sot: a habitual drunkard
+### [[Thinking, Fast and Slow]] - Daniel Kahneman
+Read January 2017
+### [[The Checklist Manifesto]] - Atul Gawande
+### [[The Power of Now]] - Eckhart Tolle
+
 ### What do <u>you</u> care what other people think? -- Richard Feynman
+
 - Read December 2016
+
 ### The Great Divorce - C.S. Lewis
 Finished October, 2016. Interesting allegory. I was surprised to find that C.S. Lewis alludes to evolution as factual in his foreward.
 ### The Effective Executive - Peter Drucker
+
 - Read September/October 2016
 - Main takeaways:
   - Decisions aren't decisions until they're broken down into work. Until then they are good intentions
@@ -84,9 +181,12 @@ Finished October, 2016. Interesting allegory. I was surprised to find that C.S. 
   - Nostrum: A magic potion, silver bullet, snake oil, or other favorite but probably ineffective remedy
 
 ### Eleven Rings - Phil Jackson
+
 - Read summer 2016
 - This is a style of leadership I can relate to. It's not domineering, it's not egocentric, and it's not cult-of-personality. It's grounded, non-reactive, attentive, and engaged.
+
 ### A Confederacy of Dunces - John Kennedy Toole
+
 - Read April 2016 in Spain
 - Hilarious and a lot of good vocab
 - Vocab
@@ -109,11 +209,11 @@ Finished October, 2016. Interesting allegory. I was surprised to find that C.S. 
   - Moribund
   - Orgiasts
   - salacious
-  - wanton 
+  - wanton
   - valise
   - schlemiel
   - epistolary
-  - roué
+  - rouÃ©
   - boites
   - eructation
 
@@ -130,52 +230,96 @@ Really good book.  I took a lot out of it and could probably do even more with i
 First read in 2013; audiobook finished around 2014-04-20
 ### Delivering Happiness - Tony Hsieh
 ### The UltraMind Solution  - Dr. Mark Hyman
+
 - Read July/August 2014
 - This, combined with conversations with Brad Wiskowski, hugely changed my diet
+
 ### The 50th Law - Robert Greene & 50 Cent
 ### 7 Habits of Highly Effective People - Steve Covey
 ### Atlas Shrugged - Ayn Rand
 ### The Fountainhead - Ayn Rand
 ### Fight Club - Chuck Palahniuk
-## Read (rēd)
+
+## Read (rÄd)
+### [[The Feeling Good Handbook]] - David Burns
+### [[Selected Writings and Teachings of Marcus Garvey]]
+### [[DokkÅdÅ]] - Miyamoto Musashi
+### [[(some Mustafa Kemal biography)]]
+### [[High Output Management]] - Andrew Grove
+### Eat that Frog! by Brian Tracy
+### [[The Road Less Stupid: Advice from the Chairman of the Board]] - Keith Cunningham
+### [[The Ascent of Man]] - Jacob Bronowski
+### [[Lost connections]] -  Joan Hari
+### [[Chasing the screen]] -  Hari
+### [[Alice in wonderland]]
+### [[30 days with a seal]]
+### Memonides
+### Andrew Yang's book
+### [[Making Money is Killing your Business]] - Chuck Blakeman
+### [[Radical Acceptance]] - Tara Brach
+### [[Dark Matter]]
+### [[Christy]] - Catherine Marshall
+Recommended by Mom, May 2019
+### [[SnowCrash]] - Neal Stephenson
+### Digital minimalism
+### The silk road
+### a true story , Lucien of samosata
+### Ordinary men
+### [[My Life and Work]] - Henry Ford
+### [[The Myth of Sisyphus]] - Albert Camus
+### [[Affective Neuroscience]] - Jaak Panksepp
+### Jurassic Park
+### [[The Road]] - Cormac McCarthy
+### Red Rising
+### Under the banner of heaven
+### The girl on the train
+### [[How to Solve It]] - George Polya
+### [[The Advantage]] - Patrick Lencioni
+### [[Letters to a young poet]] - Rainer Maria Rilke
+### [[Invisible Cities / Upon a Winter Night, a Traveler]] - Italo Calvino
+### [[The New York Trilogy / City of Glass]] - Paul Oscar
+### [[Labyrinthes]] - Jorge Luis Borges
+### [[The Way of Zen]] - Alan Watts
+### Gung Ho - Ken Blanchard
+### [[Why We Sleep]] -
+### [[The Master and Margarita]] - Mikhail Bulgakov
+### [[Unbearable Lightness of Being]] - Milan Kundera
+### [[Extreme Productivity]] - Robert C. Pozen
+### [[Blue Ocean Strategy]] - W. Chan Kim
+### [[22 Immutable Laws of Marketing]] - Al Ries and Jack Trout
 ### Diplomacy - Henry Kissinger
+
 - Available at Denver Library
+
 ### The Music Lesson - Victor Wooten
 ### HA! - Scott Weems
 ### Wind Up Bird Chronicle
-### The Hard Thing about Hard Things - Ben Horowitz
 ### Green Housekeeping - Ellen Sandbeck
 ### Younger You - Eric Braverman
 ### 150 Healthiest Foods - Jonny Bowde
-### The Clinton Tapes - Taylor Branch
 ### How To Grow Fresh Air - B.C. Wolverton
-### Nelson Mandela’s 600 page autobiography
+### Nelson Mandelaâs 600 page autobiography
 ### Driven From Within - Michael Jordan
-### Eckhart Tolle books
 ### Branden books
 ### Mastery - George Leonard
 ### Awaken the Giant Within - Tony Robbins
-### The Narrow Road – Felix Dennis
+### The Narrow Road â Felix Dennis
 ### Way of the Superior Man - David Deida
-### A Brave New World - Aldous Huxley
-### Sex At Dawn – Christopher Ryan, Cecilda Jetha
-### The Iliad – Homer
-### Odyssey – Homer
+### The Iliad â Homer
+### Odyssey â Homer
 ### Great by Choice - Jim Collins
-### Tribal Leadership – Dave Logan
+### Tribal Leadership â Dave Logan
 ### Do You! - Russell Simmons
 ### John Carlton's marketing stuff
 ### Warrior of the Light - Paulo Coelho
 ### The Alchemist - Paulo Coelho
 ### Long Way To Freedom - Nelson Mandela
 ### Ask and It Is Given - Esther Hicks
-### Antifragile - Nicolas Talib
 ### Sperm Wars - Robin Baker
 ### The Primal Blueprint - Mark Sisson
 ### Built To Last - Jim Collins
 ### Good To Great - Jim Collins
 ### Tao of Jeet Kune Do - Bruce Lee
-### Super Rich - Russel Simmons
 ### The Wheel of Time - Carlos Castaneda
 ### Jed McKenna -- Spiritual Enlightment
 ### Millionaire Next Door - Thomas Stanley
@@ -183,7 +327,9 @@ First read in 2013; audiobook finished around 2014-04-20
 ### Flow- Mihaly Csikszentmihaly
 ### The Education of a Bodybuilder - Arnold Schwarzenegger
 ### Social Engineering - The Art of Human Hacking - Chris Hadnagy
+
 - http://thepiratebay.se/torrent/6997477/Social_Engineering_-_The_Art_of_Human_Hacking
+
 ### Becoming a Supple Leopard - Kelly Starrett
 ### John Maxwell (Leadership books)
 ### The Winner Effect
@@ -191,48 +337,87 @@ First read in 2013; audiobook finished around 2014-04-20
 ### Business Model Generation
 ### Levels of the Game - John McPhee (or anything by John McPhee)
 ### Bhagavad Gita
-### Think like a Freak - Levitt/Dubner
 ### The Morning Pages - Julia Cameron
 ### About Face - David H. Hackworth (recommended by Jocko Willink)
 ### Art Of Dramatic Writing
 ### The Conquest of Happiness
 ### To Sell is Human -  Dan pinki
 ### 10 Billion - Stephen Emmott
-### Cat's Cradle - Kurt Vonnegut
-### The Education of Cyrus - Xenophon
 ### On Combat: The Psychology and Physiology of Deadly Conflict in War and Peace - Dave Grossman
 ### Playing to Win: How Strategy Really Works -- Alan G. Lafley and Roger Martin
 ### Sunny (graphic novel?)
-### The Remains of the Day -  Kazuo Ishiguro
 ### Life, Inc. -- Douglas Rushkoff
 ### The Tibetan Book of Living and Dying -- Sogyal Rinpoche
 ### Rework - Jason Fried & David Heinemeier Hanssen
-### Start with Why - Simon Sinek
 ### Tools for Titans - Tim Ferriss
 ### Rebirth - Kamal Ravikant
 ### Man's Search for Himself - Rollo May
 ### Stealing Fire - Jamie Wheal and Steven Kotler
 ### Old Man's War -John Scalzi
-### The Last Wish - Andrzej Sapkowski
 ### Mission - Seth Godin
 ### Power vs Force - David R. Hawkins
+
 - Recommended to skip to chapter 4
+
 ### How Music Works - David Byrne
 ### complications, better - Atul Gawande
-### Man's Search for Meaning - Victor Frankl
-### A New Earth - Eckhardt Tolle
 ### The Six Pillars of Self-Esteem - Dr. Nathaniel Branden
-### Deep Work - Cal Newport
 ### On the Shortness of Life - Seneca
 ### How to Read a Book - Mortimer J Adler
-### The Charisma Myth - Olivia Fox Cabane
 ### Levels of Energy - Frederick E Dodson
-### The Entrepreneur’s Guide To Getting Your Shit Together - John Carlton
+### The Entrepreneurâs Guide To Getting Your Shit Together - John Carlton
 ### Unleash the Warrior Within  - Richard Mack Machowicz
+### Power: a User's Guide
+### Wabi-Sabi for Artists, Designers, Poets & Philosophers - Leonard Koren
+
+- recommended by Curtis Bailey
+
+### A Brief History of Everything (or any other book by) - Ken Wilber
+### [[The 10x Rule]] - Grant Cordone
+### [[Catcher in the Rye]] - J.D. Salinger
+### [[Shantaram]] - Gregory David Roberts
+### [[The Book of Five Rings]] - Miyamoto Musashi
+### [[One Up on Wall Street]] - Peter Lynch
+### [[Iron John]] - Robert Bly
+### [[Fall River Dreams]] - Bill Reynolds
+### [[Hopscotch]] -  Julio CortÃ¡zar
+### [ https://en.m.wikipedia.org/wiki/Stranger_in_a_Strange_Land stranger in a strange land   https://en.m.wikipedia.org/wiki/Stranger_in_a_Strange_Land stranger in a strange land]
+### [[Civilization before Greece and Rome]] - H. W. F. Saggs
+### [[You and Your Research]] - Richard Hamming [[http://www.cs.virginia.edu/~robins/YouAndYourResearch.html text here]]
+### [[Timequake]] and [[Player Piano]] by Kurt Vonnegut
+### Mating in captivity
+### [[Freedom]] - Jonathan Franzen
+### [[Extreme Productivity]] - Robert C. Pozen
+### [[The Little Black Book of Violence]] - Lawrence A. Kane
+### Baron Munchausen's Narrative of his Marvellous Travels and Campaigns in Russia
+### Something by Taiichi Ohno
+### [[Your Money or Your Life]] - Joseph R. Dominguez, Monique Tilford, and Vicki Robin
+### [[Nausea]] - Jean-Paul Sartre
+### [[Inside Delta Force]] - Erik L. Haney
+### [[Difficult Conversations]] - Bruce Patton, Douglas Stone, and Sheila Heen
+### [[Never Split the Difference]] -  Christopher Voss and Tahl Raz
+
 ## Abandoned
-### The Good Soldier Švejk - Jaroslav Hašek
+### [[Start with Why]] - Simon Sinek
+### [[Autobiography of a Yogi]] - Paramahansa Yogananda
+
+- The author probably has some good things to say, but I can't take him seriously when he's talking about people floating and teleporting and being in two places at once and magically creating scents out of nothing. Besides that, my rule of thumb is that you have something valuable enough to say, you can just let it rest on its own merits instead of couching it in ridiculous stories. There is also the chance that the author actually believes this stuff, in which case I am not sure I can take anything he says seriously.
+
+### [[If you're not first, you're last]] - Grant Cardone
+### [[ADKAR - A model for Change in Business, Government, and our Community]] - Jeffrey M. Hiatt
+### [[The Homeowners Guide to Landscape Design]] - Timothy M. Michel
+### [[Extreme Productivity]] - Robert C. Pozen
+### [[The Education of Cyrus / Cyropaedia]] - Xenophon
+### [[Toyota Production System]] - Taiichi Ohno
+### [[Coraline]] - Neil Gaiman
+### [[The Brothers Karamazov]] - Fyodor Dostoevsky
+### [[The Island]] - Aldous Huxley
+### [[Rules of Civility]] - Amor Towles
+### [[Gratitude]] - Oliver Sachs
+### The Good Soldier Å vejk - Jaroslav HaÅ¡ek
 Highly entertaining, but I'm not sure I'm up for 700 pages of it. I would consider finishing if just for the great lexicon of the translator.
 #### Vocab
+
 - lictor: the roman officer attending a consul or magistrate, bearing the fasces, and executing sentences
 - paterfamilias: the male head of a family or household; patriarch
 - catafalque: the decorated wooden structure holding the coffin of a distinguished person
@@ -245,3 +430,5 @@ Highly entertaining, but I'm not sure I'm up for 700 pages of it. I would consid
 - picric acid: a bitter acid, and one of the most acidic phenols. Also explosive.
 - interpellate: 1) interrupt, 2) (of an ideology or discourse) bring into being or give identity to (an individual or category).
 - Myrmidon: one of the warlike Thessalian people led by Achilles at Troy.
+
+### [[The Clinton Tapes]] - Taylor Branch
