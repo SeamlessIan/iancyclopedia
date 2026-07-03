@@ -1,5 +1,6 @@
 ---
 title: Ideal Life
+date: 2017-05-27
 ---
 
 - Eat meat only one day per week

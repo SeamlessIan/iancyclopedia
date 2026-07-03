@@ -1,5 +1,7 @@
 ---
 title: A New Earth
+date: 2017-05-10
+lastmod: 2017-05-26
 ---
 
 by Eckhardt Tolle

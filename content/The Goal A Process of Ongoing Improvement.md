@@ -1,5 +1,7 @@
 ---
 title: The Goal A Process of Ongoing Improvement
+date: 2018-01-09
+lastmod: 2018-01-11
 ---
 
 The Goal, as defined by the characters/the author, is to make money. This is the goal of businesses in capitalism - obviously a more nuanced goal might help the species long-term, which might include elements like "make money in such a way that the planet can support life" or "make and distribute money in a way that doesn't lead to violent revolution," or something like that. However, for my purposes at my job, "make money" is a good working goal.

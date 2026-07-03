@@ -2,6 +2,7 @@
 title: Principles
 tags:
   - books
+date: 2019-03-29
 ---
 
 https://inside.bwater.com/publications/principles_excerpt

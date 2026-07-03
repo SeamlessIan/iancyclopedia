@@ -1,5 +1,7 @@
 ---
 title: Motorcycle
+date: 2018-06-07
+lastmod: 2019-07-30
 ---
 
 VIN: JKBVNCA17TA030181

@@ -1,5 +1,7 @@
 ---
 title: Dinner
+date: 2016-09-06
+lastmod: 2018-01-18
 ---
 
 ## Recurrent Dinner Meal Plan

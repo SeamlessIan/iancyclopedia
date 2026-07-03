@@ -1,5 +1,6 @@
 ---
 title: The Remains of the Day
+date: 2017-10-24
 ---
 
 My favorite part is where the author describes how he thinks that bantering is now part of his work-related duties, so he practices every day to make sure that he's doing his job right.

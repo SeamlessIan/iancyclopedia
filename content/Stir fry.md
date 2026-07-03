@@ -2,6 +2,7 @@
 title: Stir fry
 tags:
   - recipes
+date: 2016-07-15
 ---
 
 ## Ingredients & Instructions

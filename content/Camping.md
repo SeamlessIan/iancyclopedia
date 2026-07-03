@@ -2,6 +2,8 @@
 title: Camping
 tags:
   - checklists
+date: 2016-08-22
+lastmod: 2018-09-01
 ---
 
 - Tent

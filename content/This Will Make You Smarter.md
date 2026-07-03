@@ -2,6 +2,8 @@
 title: This Will Make You Smarter
 tags:
   - books
+date: 2018-05-26
+lastmod: 2018-06-29
 ---
 
 Read May 2018

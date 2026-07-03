@@ -1,5 +1,7 @@
 ---
 title: History of the Peloponnesian War
+date: 2018-12-18
+lastmod: 2018-12-20
 ---
 
 Speech by the Corinthians to the Lacedemonians (Spartans) in Book I, Chapter III:

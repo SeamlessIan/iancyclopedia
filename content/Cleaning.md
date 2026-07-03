@@ -1,5 +1,6 @@
 ---
 title: Cleaning
+date: 2017-05-08
 ---
 
 When I am able to hire a house cleaner, this is what I will pay them to do.

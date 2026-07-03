@@ -1,5 +1,7 @@
 ---
 title: I Will Teach You to Be Rich
+date: 2019-06-07
+lastmod: 2019-06-08
 ---
 
 Started May 2019

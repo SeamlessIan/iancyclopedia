@@ -2,6 +2,7 @@
 title: Now
 tags:
   - checklists
+date: 2017-03-23
 ---
 
 Now is the only time you ever have. Stop trying to get to the future.

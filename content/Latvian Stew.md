@@ -2,6 +2,7 @@
 title: Latvian Stew
 tags:
   - recipes
+date: 2017-07-25
 ---
 
 Source: http://bookclubcookbook.com/gentleman-moscow-latvian-stew-recipe-author-amor-towles/

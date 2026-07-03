@@ -1,5 +1,6 @@
 ---
 title: Crucial Conversations
+date: 2017-07-17
 ---
 
 Takeaways:

@@ -2,6 +2,7 @@
 title: The Mistletoe Murder And Other Stories
 tags:
   - books
+date: 2019-08-08
 ---
 
 Read July 2019

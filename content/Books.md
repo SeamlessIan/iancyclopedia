@@ -1,5 +1,7 @@
 ---
 title: Books
+date: 2016-08-04
+lastmod: 2019-11-18
 ---
 
 Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d887143c19a72c10ed0be0ce7

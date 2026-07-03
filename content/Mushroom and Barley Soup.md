@@ -2,6 +2,7 @@
 title: Mushroom and Barley Soup
 tags:
   - recipes
+date: 2016-05-29
 ---
 
 from http://www.epicurious.com/recipes/food/views/mushroom-barley-soup-993

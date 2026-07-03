@@ -1,5 +1,7 @@
 ---
 title: Morning
+date: 2017-03-06
+lastmod: 2018-09-08
 ---
 
 See also: [[Night]]

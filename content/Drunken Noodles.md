@@ -2,6 +2,7 @@
 title: Drunken Noodles
 tags:
   - recipes
+date: 2017-07-11
 ---
 
 Source(http://www.epicurious.com/recipes/food/views/drunken-noodles-232698)

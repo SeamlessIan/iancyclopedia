@@ -1,5 +1,7 @@
 ---
 title: Automobiles
+date: 2017-03-26
+lastmod: 2018-03-09
 ---
 
 ## 2008 Mazda 3

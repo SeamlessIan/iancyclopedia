@@ -2,6 +2,8 @@
 title: Hillbilly Elegy
 tags:
   - books
+date: 2017-07-18
+lastmod: 2017-07-21
 ---
 
 Read July 2017.

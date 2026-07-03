@@ -2,6 +2,8 @@
 title: Spiral Dynamics
 tags:
   - books
+date: 2019-08-28
+lastmod: 2019-09-12
 ---
 
 Read August 2019

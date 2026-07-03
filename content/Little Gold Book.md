@@ -1,5 +1,6 @@
 ---
 title: Little Gold Book
+date: 2019-11-18
 ---
 
 Read November 2019

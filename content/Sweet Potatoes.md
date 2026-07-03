@@ -3,6 +3,8 @@ title: Sweet Potatoes
 tags:
   - food
   - recipes
+date: 2017-02-21
+lastmod: 2017-03-10
 ---
 
 ## Honey-Roasted Sweet Potatoes

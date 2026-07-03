@@ -1,5 +1,6 @@
 ---
 title: Lesson Plan
+date: 2016-08-22
 ---
 
 This is a lesson plan template based on the template used by the US Army: http://www.me.ngb.army.mil/units/rti/resources/ABIC_lesson_plan_template.pdf

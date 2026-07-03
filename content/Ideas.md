@@ -1,6 +1,7 @@
 ---
 title: "Ideas"
-date: 2017-04-12
+date: 2017-01-03
+lastmod: 2019-08-21
 ---
 
 ## Your Limit

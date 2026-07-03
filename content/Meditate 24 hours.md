@@ -2,6 +2,8 @@
 title: Meditate 24 hours
 tags:
   - goals
+date: 2017-01-09
+lastmod: 2017-03-10
 ---
 
 - 2017-01-08: mindfulness 5 minutes at accountability meeting

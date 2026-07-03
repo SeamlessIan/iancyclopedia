@@ -1,6 +1,7 @@
 ---
 title: "Movies"
-date: 2017-04-08
+date: 2016-10-14
+lastmod: 2019-06-02
 ---
 
 I have a proclivity for time travel and mindfuck films.

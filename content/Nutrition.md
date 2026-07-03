@@ -1,5 +1,7 @@
 ---
 title: Nutrition
+date: 2018-02-25
+lastmod: 2019-04-21
 ---
 
 Nutrition is how we combat entropy. Your body is going to break down into smaller constituent parts, so you have to put more complex things inside of it so that it can destroy, rebuild, and counteract entropy. Those things are fats, amino acids, and vitamins. You also want to drink a lot of water so that nutrients can get moved around.

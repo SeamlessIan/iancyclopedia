@@ -1,5 +1,7 @@
 ---
 title: Best practices
+date: 2016-11-16
+lastmod: 2017-06-12
 ---
 
 ## Speech

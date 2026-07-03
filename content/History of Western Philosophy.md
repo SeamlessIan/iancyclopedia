@@ -2,6 +2,8 @@
 title: History of Western Philosophy
 tags:
   - books
+date: 2018-07-03
+lastmod: 2018-07-24
 ---
 
 (Read June/July 2018)

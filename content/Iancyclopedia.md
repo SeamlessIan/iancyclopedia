@@ -2,6 +2,8 @@
 title: Iancyclopedia
 tags:
   - to-do
+date: 2017-03-10
+lastmod: 2018-04-29
 ---
 
 ## To do

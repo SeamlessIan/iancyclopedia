@@ -2,6 +2,7 @@
 title: Clothing
 tags:
   - operations
+date: 2017-12-15
 ---
 
 Goal: Have clean clothes that I like available to me when I need them.

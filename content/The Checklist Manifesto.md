@@ -1,5 +1,6 @@
 ---
 title: The Checklist Manifesto
+date: 2018-01-29
 ---
 
 Read December 2016 / January 2017

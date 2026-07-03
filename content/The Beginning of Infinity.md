@@ -1,5 +1,6 @@
 ---
 title: The Beginning of Infinity
+date: 2019-06-02
 ---
 
 Read May 2019

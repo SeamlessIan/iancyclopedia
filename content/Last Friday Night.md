@@ -3,6 +3,7 @@ title: Last Friday Night
 tags:
   - parodies
   - songs
+date: 2017-03-17
 ---
 
 - Plugged ketamine

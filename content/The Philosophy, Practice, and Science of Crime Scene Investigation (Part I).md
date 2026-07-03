@@ -1,5 +1,6 @@
 ---
 title: The Philosophy, Practice, and Science of Crime Scene Investigation (Part I)
+date: 2019-09-10
 ---
 
 "Every Touch Leaves a Trace" (Locard's exchange principle)

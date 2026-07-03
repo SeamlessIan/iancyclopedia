@@ -1,5 +1,6 @@
 ---
 title: The Art of Being
+date: 2019-01-04
 ---
 
 The first half is quite interesting. The second half is a bizarre psychoanalysis bullshit.

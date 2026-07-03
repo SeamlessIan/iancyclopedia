@@ -1,6 +1,7 @@
 ---
 title: "The Journey (Not the Destination)"
-date: 2016-04-14
+date: 2016-04-09
+lastmod: 2016-04-14
 ---
 
 This is an application I built to track my goals for 2016. You can view the current status of these goals <here>(https://ianmelchior.com/thejourney.html).

@@ -1,5 +1,7 @@
 ---
 title: Extreme Ownership
+date: 2018-10-25
+lastmod: 2018-10-26
 ---
 
 ## Planning Checklist

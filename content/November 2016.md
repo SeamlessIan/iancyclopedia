@@ -1,5 +1,6 @@
 ---
 title: November 2016
+date: 2016-11-17
 ---
 
 Starts 11/17, ends 12/17

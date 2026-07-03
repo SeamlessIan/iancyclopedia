@@ -1,5 +1,7 @@
 ---
 title: Poker
+date: 2016-11-13
+lastmod: 2019-09-08
 ---
 
 ## Why you should learn to play poker

@@ -2,6 +2,7 @@
 title: Vegan Skillet
 tags:
   - recipes
+date: 2017-10-30
 ---
 
 From https://minimalistbaker.com/roasted-sweet-potato-kale-breakfast-hash/

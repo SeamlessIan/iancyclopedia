@@ -1,5 +1,6 @@
 ---
 title: Brave New World
+date: 2017-05-15
 ---
 
 Brave New World is a book about a dystopian future. It bears some resemblance to the dystopian future we ended up living in.

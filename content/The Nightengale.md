@@ -2,6 +2,7 @@
 title: The Nightengale
 tags:
   - books
+date: 2017-09-02
 ---
 
 Read August 2017

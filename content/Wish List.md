@@ -1,5 +1,7 @@
 ---
 title: Wish List
+date: 2017-03-06
+lastmod: 2018-07-10
 ---
 
 ## Icon Stryker Rig

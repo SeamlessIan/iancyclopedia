@@ -1,5 +1,6 @@
 ---
 title: Traction
+date: 2019-06-19
 ---
 
 Traction:

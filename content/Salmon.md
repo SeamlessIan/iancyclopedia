@@ -2,6 +2,8 @@
 title: Salmon
 tags:
   - recipes
+date: 2016-07-14
+lastmod: 2016-07-15
 ---
 
 ## Ingredients

@@ -2,6 +2,8 @@
 title: Wake up by 500 at least 100 times
 tags:
   - goals
+date: 2017-01-07
+lastmod: 2017-05-23
 ---
 
 This is one of my 2017 goals.

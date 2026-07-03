@@ -1,5 +1,6 @@
 ---
 title: Karaoke
+date: 2017-01-25
 ---
 
 ## Karaoke Mashups

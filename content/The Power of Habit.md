@@ -1,5 +1,6 @@
 ---
 title: The Power of Habit
+date: 2019-01-04
 ---
 
 The myriad and long-winded anecdotes got a little tiresome, but there were some important and useful tips to changing habits:

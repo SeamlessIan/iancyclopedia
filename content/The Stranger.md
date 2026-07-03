@@ -1,5 +1,6 @@
 ---
 title: The Stranger
+date: 2017-06-28
 ---
 
 Read June 27, 2017

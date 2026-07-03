@@ -2,6 +2,8 @@
 title: Book Club
 tags:
   - books
+date: 2018-03-05
+lastmod: 2018-05-25
 ---
 
 See also: [Books]

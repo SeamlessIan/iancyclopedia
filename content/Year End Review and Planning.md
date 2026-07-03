@@ -1,5 +1,6 @@
 ---
 title: Year End Review and Planning
+date: 2018-12-29
 ---
 
 - Go through everything you own and decide what you want to take into the new year with you. I like the heuristic from [LifeâChanging Magic of Tidying Up](The), which is to ask yourself about each object, "does this bring me joy?"

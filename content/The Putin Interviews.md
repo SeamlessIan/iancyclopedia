@@ -2,6 +2,8 @@
 title: The Putin Interviews
 tags:
   - books
+date: 2018-09-02
+lastmod: 2018-09-07
 ---
 
 ## Trip 1

@@ -2,6 +2,8 @@
 title: Monday
 tags:
   - checklists
+date: 2017-04-11
+lastmod: 2018-01-23
 ---
 
 ## Work

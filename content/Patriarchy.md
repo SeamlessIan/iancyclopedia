@@ -1,5 +1,6 @@
 ---
 title: Patriarchy
+date: 2017-04-28
 ---
 
 ## Short Video

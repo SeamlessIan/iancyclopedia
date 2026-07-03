@@ -1,5 +1,7 @@
 ---
 title: 2017 Goals
+date: 2016-12-06
+lastmod: 2017-02-08
 ---
 
 ## 2017 Goals

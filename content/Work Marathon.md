@@ -1,5 +1,6 @@
 ---
 title: Work Marathon
+date: 2018-12-12
 ---
 
 Notes from Sebastian Marshall webinar on how to conduct a multi-day, focused work marathon

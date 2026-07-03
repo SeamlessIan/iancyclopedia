@@ -1,5 +1,6 @@
 ---
 title: The Myth of Sisyphus
+date: 2018-12-20
 ---
 
 - "... it is wrongly assumed that simple questions involve answers which are no less simple..."

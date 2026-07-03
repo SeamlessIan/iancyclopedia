@@ -1,5 +1,7 @@
 ---
 title: Bicycle
+date: 2016-07-07
+lastmod: 2017-11-29
 ---
 
 ## Parts

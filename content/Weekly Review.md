@@ -2,6 +2,8 @@
 title: Weekly Review
 tags:
   - checklists
+date: 2017-03-24
+lastmod: 2019-09-01
 ---
 
 Weekly Planning Checklist

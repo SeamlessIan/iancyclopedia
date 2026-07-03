@@ -1,5 +1,6 @@
 ---
 title: Kitchen
+date: 2018-03-05
 ---
 
 ## Clean

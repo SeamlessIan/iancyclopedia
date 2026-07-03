@@ -2,6 +2,7 @@
 title: Every Hand Revealed
 tags:
   - books
+date: 2019-08-24
 ---
 
 Read July/August 2019

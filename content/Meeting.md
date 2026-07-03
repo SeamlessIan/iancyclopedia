@@ -2,6 +2,8 @@
 title: Meeting
 tags:
   - checklists
+date: 2016-06-02
+lastmod: 2018-04-24
 ---
 
 This is a checklist for use in scheduling, conducting, and following up on meetings.

@@ -2,6 +2,7 @@
 title: An Enquiry Concerning Human Understanding
 tags:
   - books
+date: 2018-05-07
 ---
 
 Read April/May, 2018

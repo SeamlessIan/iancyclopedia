@@ -1,5 +1,6 @@
 ---
 title: Computer
+date: 2016-07-25
 ---
 
 ## Components

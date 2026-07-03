@@ -2,6 +2,8 @@
 title: The Hard Thing about Hard Things
 tags:
   - books
+date: 2019-08-26
+lastmod: 2019-08-30
 ---
 
 Started August 2019

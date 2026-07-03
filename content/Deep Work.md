@@ -1,5 +1,7 @@
 ---
 title: Deep Work
+date: 2018-09-02
+lastmod: 2018-09-05
 ---
 
 Thesis: "Deep Work," the ability to sustain attention on a single problem, is both increasingly rare and increasingly valuable in today's world.

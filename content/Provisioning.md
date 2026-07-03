@@ -2,6 +2,8 @@
 title: Provisioning
 tags:
   - checklists
+date: 2016-05-13
+lastmod: 2019-04-06
 ---
 
 Provisions are supplies for an event or period of time.

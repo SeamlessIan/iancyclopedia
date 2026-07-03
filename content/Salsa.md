@@ -2,6 +2,7 @@
 title: Salsa
 tags:
   - recipes
+date: 2016-07-11
 ---
 
 ## Ingredients

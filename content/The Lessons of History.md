@@ -1,5 +1,7 @@
 ---
 title: The Lessons of History
+date: 2019-01-26
+lastmod: 2019-08-22
 ---
 
 ## Quotes

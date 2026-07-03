@@ -2,6 +2,8 @@
 title: No Country for Old Men
 tags:
   - books
+date: 2019-09-08
+lastmod: 2019-09-10
 ---
 
 Read September 2019

@@ -1,5 +1,6 @@
 ---
 title: Public Speaking
+date: 2017-09-25
 ---
 
 Guiding Principles:

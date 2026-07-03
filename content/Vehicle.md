@@ -2,6 +2,8 @@
 title: Vehicle
 tags:
   - checklists
+date: 2018-03-08
+lastmod: 2019-06-11
 ---
 
 ## Ford F-150

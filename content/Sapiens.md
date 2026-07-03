@@ -2,6 +2,7 @@
 title: Sapiens
 tags:
   - books
+date: 2017-09-13
 ---
 
 Read August / September, 2017

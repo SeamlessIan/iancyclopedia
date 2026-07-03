@@ -1,5 +1,6 @@
 ---
 title: Homo Deus
+date: 2018-01-08
 ---
 
 Read December 2017 - January 2018

@@ -1,5 +1,7 @@
 ---
 title: The Autobiography of Benvenudo Cellini
+date: 2017-05-19
+lastmod: 2017-05-26
 ---
 
 A contemporary of Michelangelo, Cellini's lived a fascinating life, at least as told by him.

@@ -1,6 +1,7 @@
 ---
 title: "Policies"
-date: 2017-03-10
+date: 2016-04-18
+lastmod: 2017-03-10
 ---
 
 Policies are designed to simplify my life by eliminating the need for making the same decision more than once. Policies are not immutable; they are designed to serve me, not the other way around.

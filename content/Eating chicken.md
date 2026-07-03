@@ -2,6 +2,7 @@
 title: Eating chicken
 tags:
   - scripts
+date: 2017-09-04
 ---
 
 Setting: A chicken farmer's backyard.

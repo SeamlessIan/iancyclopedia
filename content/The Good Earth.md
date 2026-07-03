@@ -2,6 +2,7 @@
 title: The Good Earth
 tags:
   - books
+date: 2017-05-02
 ---
 
 Read April 2017 on the recommendation of Chloe Sanders.

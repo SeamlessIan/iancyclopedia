@@ -1,5 +1,6 @@
 ---
 title: How to Ask a Question in a Group Setting
+date: 2017-08-30
 ---
 
 Wrong:

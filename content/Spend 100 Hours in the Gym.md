@@ -2,6 +2,8 @@
 title: Spend 100 Hours in the Gym
 tags:
   - goals
+date: 2017-01-06
+lastmod: 2017-01-23
 ---
 
 This is one of my goals for 2017.

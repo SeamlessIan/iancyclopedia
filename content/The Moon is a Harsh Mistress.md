@@ -1,5 +1,7 @@
 ---
 title: The Moon is a Harsh Mistress
+date: 2018-12-29
+lastmod: 2019-01-01
 ---
 
 December 2018

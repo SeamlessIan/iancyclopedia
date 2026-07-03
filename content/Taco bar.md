@@ -1,5 +1,6 @@
 ---
 title: Taco bar
+date: 2018-06-14
 ---
 
 For when you want to have people over for dinner but don't feel like cooking all afternoon.

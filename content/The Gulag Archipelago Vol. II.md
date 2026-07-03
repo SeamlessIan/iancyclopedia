@@ -2,6 +2,7 @@
 title: The Gulag Archipelago Vol. II
 tags:
   - books
+date: 2019-07-25
 ---
 
 quotes:

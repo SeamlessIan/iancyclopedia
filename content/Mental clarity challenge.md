@@ -1,6 +1,7 @@
 ---
 title: "Mental clarity challenge"
-date: 2017-03-22
+date: 2016-10-03
+lastmod: 2017-03-22
 ---
 
 This is a monthly challenge that Ari came up with. The idea is to abstain from all psychoactive substances for 1 full month, and to meditate every day during this same month.

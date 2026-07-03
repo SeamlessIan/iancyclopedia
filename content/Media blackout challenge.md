@@ -1,6 +1,7 @@
 ---
 title: "Media blackout challenge"
-date: 2016-09-07
+date: 2016-09-01
+lastmod: 2016-09-07
 ---
 
 The media blackout month is a challenge that Ari Aal came up with after reading that the constant stimulation of the 3rd millennium is having deleterious effects on people's ability to concentrate and think deeply. During this month, participants will drastically reduce their exposure to trivial media and low-value stimulation with the goal of breaking the addiction to this stimulation and regaining some of the cognitive abilities that may have been hindered by the phenomenon described above.

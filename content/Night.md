@@ -3,6 +3,8 @@ title: Night
 tags:
   - checklists
   - rituals
+date: 2016-06-15
+lastmod: 2018-05-02
 ---
 
 See also:

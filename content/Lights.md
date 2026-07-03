@@ -1,5 +1,7 @@
 ---
 title: Lights
+date: 2018-03-21
+lastmod: 2018-05-19
 ---
 
 Lights habit tracking was invented by Sebastian Marshall. [Here is his spreadsheet generator](https://ultra.work/lights2).

@@ -2,6 +2,7 @@
 title: Hiking
 tags:
   - checklists
+date: 2017-04-11
 ---
 
 - H20

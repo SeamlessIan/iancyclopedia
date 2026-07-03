@@ -1,5 +1,7 @@
 ---
 title: Spectrum
+date: 2017-10-08
+lastmod: 2018-09-05
 ---
 
 Opposing viewpoints tend to exist on a spectrum. Naming the two extreme points of view on a subject can help a person understand the topic more clearly and their view on it. Disagreements are not often A vs B, but rather different points on the spectrum between A and B.

@@ -2,6 +2,7 @@
 title: Design
 tags:
   - checklists
+date: 2018-01-17
 ---
 
 The following is from [Guide to Landscape Design](Homeowners) by Timothy M. Michel.

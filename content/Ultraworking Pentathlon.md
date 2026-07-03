@@ -1,5 +1,7 @@
 ---
 title: Ultraworking Pentathlon
+date: 2018-01-08
+lastmod: 2018-01-11
 ---
 
 Feedback:

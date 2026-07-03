@@ -1,5 +1,6 @@
 ---
 title: Essentialism
+date: 2019-05-05
 ---
 
 Recommended by Jordan James

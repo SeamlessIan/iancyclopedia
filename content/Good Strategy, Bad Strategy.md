@@ -1,5 +1,6 @@
 ---
 title: Good Strategy, Bad Strategy
+date: 2018-04-25
 ---
 
 A good strategy requires the following three things:

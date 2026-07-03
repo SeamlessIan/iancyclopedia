@@ -1,5 +1,6 @@
 ---
 title: The Score Takes Care of Itself
+date: 2019-04-06
 ---
 
 Main takeaways:

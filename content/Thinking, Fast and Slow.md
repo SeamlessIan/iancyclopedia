@@ -1,5 +1,6 @@
 ---
 title: Thinking, Fast and Slow
+date: 2018-12-30
 ---
 
 Vocab/concepts:

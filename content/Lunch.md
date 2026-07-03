@@ -1,5 +1,7 @@
 ---
 title: Lunch
+date: 2017-03-21
+lastmod: 2018-01-08
 ---
 
 This is the best way I know of to do lunch if you are an office worker.

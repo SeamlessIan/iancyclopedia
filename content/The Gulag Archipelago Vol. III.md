@@ -2,6 +2,8 @@
 title: The Gulag Archipelago Vol. III
 tags:
   - books
+date: 2019-08-22
+lastmod: 2019-08-26
 ---
 
 ## Topics covered
