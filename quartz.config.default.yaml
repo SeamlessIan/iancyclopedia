@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: iancyclopedia.ianmelchior.com
+  baseUrl: iancyclopedia.com
   ignorePatterns:
     - private
     - templates
