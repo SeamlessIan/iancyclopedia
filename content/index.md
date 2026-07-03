@@ -4,7 +4,7 @@ title: Iancyclopedia
 
 A personal wiki by [[Ian Melchior]].
 
-Opinions are my own. Policies are my own too — and unlike opinions, they're binding.
+Opinions are my own / Policies are binding
 
 ## Browse
 
