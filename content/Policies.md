@@ -20,9 +20,9 @@ Rationale: confronting issues while under the influence of emotion is likelier t
 
 ## Food
 Food is important for the following reasons, in this order:
-# Nutrition
-# Communion
-# Pleasure
+1. Nutrition
+2. Communion
+3. Pleasure
 
 Unpleasant taste won't prevent me from eating something nutritious.
 
@@ -59,13 +59,13 @@ The following are grounds for termination:
 - Marijuana is ok on Sundays or weekdays after 5 p.m.
 
 Rationale: There may be no benefits whatsoever from smoking tobacco, and even if there are, those benefits are outweighed by the costs - the primary cost being addiction and compulsive behavior. Regarding marijuana: it's enjoyable at times, alone, but affects me in the following ways:
-# Represses expression
-# Causes anxiety
-# Slows down thoughts for a prolonged period after the initial high wears off and renders me ineffective
-# Decreases sex drive
-# Costs money
-# Tends to be done compulsively
+1. Represses expression
+2. Causes anxiety
+3. Slows down thoughts for a prolonged period after the initial high wears off and renders me ineffective
+4. Decreases sex drive
+5. Costs money
+6. Tends to be done compulsively
 
 If you catch me violating any of these policies and cite this document, I will pay you a $20 fine.
 
-Related concepts: <practices]([Best)>
+Related concepts: [[Best practices]]
