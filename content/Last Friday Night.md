@@ -1,9 +1,9 @@
 ---
 title: Last Friday Night
+tags:
+  - parodies
+  - songs
 ---
-
-[Category:Songs]
-[Category:Parodies]
 
 - Plugged ketamine
 - Stole a helicopter

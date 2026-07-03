@@ -1,5 +1,8 @@
 ---
 title: Night
+tags:
+  - checklists
+  - rituals
 ---
 
 See also:
@@ -31,5 +34,3 @@ At night, I like to reflect on the preceding day and prepare for the new one.
 
 
 Experiment: Hang this outside my bedroom door.
-[Category:Rituals]
-[Category:Checklists]

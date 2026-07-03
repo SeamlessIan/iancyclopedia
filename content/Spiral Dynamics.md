@@ -1,8 +1,9 @@
 ---
 title: Spiral Dynamics
+tags:
+  - books
 ---
 
-[Category:Books] 
 Read August 2019
 
 Levels of consciousness:

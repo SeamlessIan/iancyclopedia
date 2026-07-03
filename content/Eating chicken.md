@@ -1,8 +1,8 @@
 ---
 title: Eating chicken
+tags:
+  - scripts
 ---
-
-[Category:Scripts]
 
 Setting: A chicken farmer's backyard.
 

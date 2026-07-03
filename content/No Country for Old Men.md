@@ -1,8 +1,8 @@
 ---
 title: No Country for Old Men
+tags:
+  - books
 ---
-
-[Category:Books]
 
 Read September 2019
 

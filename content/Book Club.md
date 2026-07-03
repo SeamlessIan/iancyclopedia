@@ -1,8 +1,8 @@
 ---
 title: Book Club
+tags:
+  - books
 ---
-
-[Category:Books] 
 
 See also: [Books]
 ## Format

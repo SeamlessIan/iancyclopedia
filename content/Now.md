@@ -1,8 +1,8 @@
 ---
 title: Now
+tags:
+  - checklists
 ---
-
-[Category:Checklists]
 
 Now is the only time you ever have. Stop trying to get to the future.
 

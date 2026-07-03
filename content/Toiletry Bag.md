@@ -1,8 +1,9 @@
 ---
 title: Toiletry Bag
+tags:
+  - checklists
 ---
 
-[Category:Checklists]
 - contact case
 - contact solution
 - extra contacts

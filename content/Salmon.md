@@ -1,5 +1,7 @@
 ---
 title: Salmon
+tags:
+  - recipes
 ---
 
 ## Ingredients
@@ -24,4 +26,3 @@ title: Salmon
 - Grill, OR
 - Cook in cast iron pan on stovetop
 
-[Category:Recipes]

@@ -1,8 +1,8 @@
 ---
 title: Wake up by 500 at least 100 times
+tags:
+  - goals
 ---
-
-Goals]([Category:2017)
 
 This is one of my 2017 goals.
 

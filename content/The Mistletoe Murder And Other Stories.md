@@ -1,8 +1,8 @@
 ---
 title: The Mistletoe Murder And Other Stories
+tags:
+  - books
 ---
-
-[Category:Books]
 
 Read July 2019
 

@@ -1,10 +1,11 @@
 ---
 title: Latvian Stew
+tags:
+  - recipes
 ---
 
 Source: http://bookclubcookbook.com/gentleman-moscow-latvian-stew-recipe-author-amor-towles/
 
-[Category:Recipes]
 
 Amor Towles's Latvian Stew Recipe from A GENTLEMAN IN MOSCOW
 Prep Time: 25 minutes

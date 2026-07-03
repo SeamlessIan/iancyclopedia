@@ -1,5 +1,7 @@
 ---
 title: Meeting
+tags:
+  - checklists
 ---
 
 This is a checklist for use in scheduling, conducting, and following up on meetings.
@@ -52,4 +54,3 @@ This is a checklist for use in scheduling, conducting, and following up on meeti
 
 (8) Be worried about the propriety of any decisionâââraise the question of whether such action as is contemplated lies within the jurisdiction of the group or whether it might conflict with the policy of some higher echelon.â
 
-[Category:Checklists]

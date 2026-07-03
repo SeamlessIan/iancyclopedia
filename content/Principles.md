@@ -1,8 +1,8 @@
 ---
 title: Principles
+tags:
+  - books
 ---
-
-[Category:Books]
 
 https://inside.bwater.com/publications/principles_excerpt
 

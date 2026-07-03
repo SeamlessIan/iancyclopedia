@@ -1,8 +1,9 @@
 ---
 title: Every Hand Revealed
+tags:
+  - books
 ---
 
-[Category:Books]
 Read July/August 2019
 
 Takeaways:

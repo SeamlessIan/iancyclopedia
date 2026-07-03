@@ -1,5 +1,7 @@
 ---
 title: Salsa
+tags:
+  - recipes
 ---
 
 ## Ingredients
@@ -21,4 +23,3 @@ title: Salsa
 - Cut/peel ingredients
 - Process all ingredients in a food processor
 
-[Category:Recipes]

@@ -1,8 +1,9 @@
 ---
 title: Spend 100 Hours in the Gym
+tags:
+  - goals
 ---
 
-Goals]([Category:2017)
 This is one of my goals for 2017.
 
 ## Fitness Plan Part 1: Starting Strength

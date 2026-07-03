@@ -1,10 +1,11 @@
 ---
 title: This Will Make You Smarter
+tags:
+  - books
 ---
 
 Read May 2018
 
-[Category:Books]
 
 This book is a collection of essays by thought leaders. Essays that stood out to me:
 - Jonah Lehrer: Control Your Spotlight. When trying to avoid a temptation, distract yourself rather than trying to flex willpower.

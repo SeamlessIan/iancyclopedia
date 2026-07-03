@@ -1,7 +1,8 @@
 ---
 title: The Art of Learning
+tags:
+  - books
 ---
 
-[Category:Books]
 ## Takeaways
 - "Almost all mistakes have both a technical and mental components"

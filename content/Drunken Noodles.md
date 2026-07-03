@@ -1,8 +1,9 @@
 ---
 title: Drunken Noodles
+tags:
+  - recipes
 ---
 
-[Category:Recipes]
 Source(http://www.epicurious.com/recipes/food/views/drunken-noodles-232698)
 ## Ingredients
 - 2 14-ounce packages 1/4-inch-wide flat rice noodles*

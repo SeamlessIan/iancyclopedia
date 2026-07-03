@@ -1,8 +1,8 @@
 ---
 title: The Gulag Archipelago Vol. II
+tags:
+  - books
 ---
-
-[Category:Books]
 
 quotes:
 

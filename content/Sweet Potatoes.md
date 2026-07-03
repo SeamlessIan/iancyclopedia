@@ -1,9 +1,9 @@
 ---
 title: Sweet Potatoes
+tags:
+  - food
+  - recipes
 ---
-
-[Category:Recipes]
-[Category:Food]
 
 ## Honey-Roasted Sweet Potatoes
 [Source here.](http://www.averiecooks.com/2014/09/honey-roasted-sweet-potatoes-with-honey-cinnamon-dip.html)

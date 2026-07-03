@@ -1,8 +1,9 @@
 ---
 title: Vehicle
+tags:
+  - checklists
 ---
 
-[Category:Checklists]
 ## Ford F-150
 CO 863-VGQ 
 

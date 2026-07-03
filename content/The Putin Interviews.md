@@ -1,8 +1,8 @@
 ---
 title: The Putin Interviews
+tags:
+  - books
 ---
-
-[Category:Books]
 
 ## Trip 1
 Putin is reluctant to criticize his predecessors, his rivals, and other individuals who come up during the interview. Rather, he tends to criticize decisions, organizations, and outcomes, but speak positively or neutrally about individuals who come up.

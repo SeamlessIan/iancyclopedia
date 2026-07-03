@@ -1,5 +1,7 @@
 ---
 title: Stir fry
+tags:
+  - recipes
 ---
 
 ## Ingredients & Instructions
@@ -19,4 +21,3 @@ Fry any combination of the following in the order shown:
 - greens
 - sprouts
 
-[Category:Recipes]

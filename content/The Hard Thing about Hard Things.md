@@ -1,8 +1,8 @@
 ---
 title: The Hard Thing about Hard Things
+tags:
+  - books
 ---
-
-[Category:Books]
 
 Started August 2019
 

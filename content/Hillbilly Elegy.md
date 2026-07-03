@@ -1,8 +1,8 @@
 ---
 title: Hillbilly Elegy
+tags:
+  - books
 ---
-
-Books]([Category:)
 
 Read July 2017.
 

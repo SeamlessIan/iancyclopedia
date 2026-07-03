@@ -1,8 +1,8 @@
 ---
 title: Design
+tags:
+  - checklists
 ---
-
-[Category:Checklists]
 
 The following is from [Guide to Landscape Design](Homeowners) by Timothy M. Michel.
 

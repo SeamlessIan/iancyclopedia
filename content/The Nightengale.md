@@ -1,8 +1,8 @@
 ---
 title: The Nightengale
+tags:
+  - books
 ---
-
-[Category:Books]
 
 Read August 2017
 

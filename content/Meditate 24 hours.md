@@ -1,8 +1,8 @@
 ---
 title: Meditate 24 hours
+tags:
+  - goals
 ---
-
-Goals]([Category:2017)
 
 - 2017-01-08: mindfulness 5 minutes at accountability meeting
 - 2017-01-22: meditation 10 min at yoga class

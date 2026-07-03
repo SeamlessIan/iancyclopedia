@@ -1,8 +1,8 @@
 ---
 title: The Gulag Archipelago Vol. III
+tags:
+  - books
 ---
-
-[Category:Books]
 
 ## Topics covered
 - escape attempts

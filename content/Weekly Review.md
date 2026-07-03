@@ -1,8 +1,8 @@
 ---
 title: Weekly Review
+tags:
+  - checklists
 ---
-
-[Category:Checklists]
 
 Weekly Planning Checklist
 

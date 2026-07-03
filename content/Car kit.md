@@ -1,8 +1,8 @@
 ---
 title: Car kit
+tags:
+  - checklists
 ---
-
-[Category:Checklists]
 
 At some point, you'll be glad you have these items in your car or you'll wish that you had.
 

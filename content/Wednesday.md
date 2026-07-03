@@ -1,7 +1,7 @@
 ---
 title: Wednesday
+tags:
+  - checklists
 ---
-
-[Category:Checklists]
 
 - Shave

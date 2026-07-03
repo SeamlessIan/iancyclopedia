@@ -1,8 +1,9 @@
 ---
 title: History of Western Philosophy
+tags:
+  - books
 ---
 
-[Category:Books]
 (Read June/July 2018)
 
 "After a discussion of various difficulties concerning the millennium, and the subsequent doings of Gog and Magog, he comes to a text in II Thessalonians (ii, 11, 12): "God shall send them strong delusion, that they should believe a lie, that they all might be damned who believed not the truth, but had pleasure in unrighteousness." Some people might think it unjust that the Omnipotent should first deceive them, and then punish them for being deceived; but to St Augustine this seems quite in order."

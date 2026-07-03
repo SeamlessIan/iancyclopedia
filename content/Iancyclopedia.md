@@ -1,8 +1,9 @@
 ---
 title: Iancyclopedia
+tags:
+  - to-do
 ---
 
-[Category:To-do]
 ## To do
 - Install Visual Editor
   - Upgrade to newest version of Mediawiki(https://www.mediawiki.org/wiki/Download)

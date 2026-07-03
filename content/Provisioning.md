@@ -1,5 +1,7 @@
 ---
 title: Provisioning
+tags:
+  - checklists
 ---
 
 Provisions are supplies for an event or period of time.
@@ -62,4 +64,3 @@ It takes me about 40 minutes to pack for a week-long trip.
 - passport
 - insurance policy
 
-[Category:Checklists]

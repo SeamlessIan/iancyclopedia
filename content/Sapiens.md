@@ -1,8 +1,8 @@
 ---
 title: Sapiens
+tags:
+  - books
 ---
-
-[Category:Books]
 
 Read August / September, 2017
 

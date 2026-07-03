@@ -1,5 +1,7 @@
 ---
 title: Bathroom
+tags:
+  - checklists
 ---
 
 This is a list I use when cleaning my bathroom, or better yet, when paying someone else to do it.
@@ -14,4 +16,3 @@ Bathroom:
   - Toilet paper
   - Hand soap
 
-[Category:Checklists]

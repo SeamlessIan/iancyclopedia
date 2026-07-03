@@ -1,10 +1,11 @@
 ---
 title: Sunday
+tags:
+  - checklists
 ---
 
 Sunday can be a day of rest, but I also like to use Sundays for routine maintenance and to set myself up for success for the upcoming week.
 
-[Category:Checklists]
 - Clean [kitchen]
 - Clean bathroom
 - Change sheets

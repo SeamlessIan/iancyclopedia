@@ -1,8 +1,9 @@
 ---
 title: Hiking
+tags:
+  - checklists
 ---
 
-[Category:Checklists]
 - H20
 - Food
 - Dry socks

@@ -1,5 +1,7 @@
 ---
 title: Mushroom and Barley Soup
+tags:
+  - recipes
 ---
 
 from http://www.epicurious.com/recipes/food/views/mushroom-barley-soup-993
@@ -17,4 +19,3 @@ from http://www.epicurious.com/recipes/food/views/mushroom-barley-soup-993
 
 ## Instructions
 
-[Category:Recipe]

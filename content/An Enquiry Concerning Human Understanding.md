@@ -1,8 +1,8 @@
 ---
 title: An Enquiry Concerning Human Understanding
+tags:
+  - books
 ---
-
-[Category:Books]
 
 Read April/May, 2018
 

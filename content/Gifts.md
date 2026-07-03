@@ -1,9 +1,10 @@
 ---
 title: Gifts
+tags:
+  - checklists
 ---
 
 How to give gifts
-[Category:Checklists]
 
 - Make list of people important to you
 - Get them something they can use. Don't get something bad for them, like alcohol.

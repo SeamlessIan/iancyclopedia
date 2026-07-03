@@ -1,5 +1,7 @@
 ---
 title: Camping
+tags:
+  - checklists
 ---
 
 - Tent
@@ -21,4 +23,3 @@ title: Camping
 - Bug spray
 - Lantern/Headlamp
 
-[Category:Checklists]
