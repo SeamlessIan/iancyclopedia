@@ -1,8 +1,6 @@
 ---
-title: The LifeâChanging Magic of Tidying Up
+title: The Life-Changing Magic of Tidying Up
 ---
-
-[Category:Books]
 
 Read October 2017
 

@@ -2,15 +2,7 @@
 title: Morning
 ---
 
-[Category:Checklists]
-See also:
-- [Night]
-
-
-## Dad
-Where are you
-
-Daddy please
+See also: [[Night]]
 
 ## Home
 - Get up by 6
