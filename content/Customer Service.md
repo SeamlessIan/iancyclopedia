@@ -14,7 +14,7 @@ On life, and I prefer the month-to-month, lest I'm dissatisfied
 
 ## Verse 2: Do you have any questions?
 
-Why am I such a degenerate? And wherefore so intemperate?  
+Temptation to intemperance, must I be so degenerate?  
 I'm grateful for the life I have, but tell me what's the point of it?  
 Question two: the sky, why blue? and why am I of the same hue?  
 I've tried to change my tone, yet every time the shade returns anew  
