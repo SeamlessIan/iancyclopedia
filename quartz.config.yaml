@@ -217,7 +217,15 @@ plugins:
       links:
         GitHub: https://github.com/SeamlessIan/iancyclopedia
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: New Pages
+      limit: 5
+      showTags: false
+      linkToMore: false
+    layout:
+      position: left
+      priority: 25
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
