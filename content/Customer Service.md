@@ -18,7 +18,7 @@ Why am I such a degenerate? And wherefore so intemperate?
 I'm grateful for the life I have, but tell me what's the point of it?  
 Question two: the sky, why blue? and why am I of the same hue?  
 I've tried to change my tone, yet every time the shade returns anew  
-And finally, my question three: why is there just one of me? a frozen clone encased in ice would be the safest policy.
+My Last Will and Last Inquiry: why is there just one of me? a frozen clone encased in ice would be the safest policy.
 
 ## Verse 3: Will that be all?
 
