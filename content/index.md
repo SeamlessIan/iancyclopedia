@@ -17,7 +17,7 @@ Opinions are my own / Policies are binding
 
 ## Books
 
-- [[Books]] — reading list and notes
+- [[Books]] - reading list and notes
 - [[Deep Work]]
 - [[Antifragile]]
 - [[Sapiens]]
@@ -31,7 +31,6 @@ Opinions are my own / Policies are binding
 - [[Mental clarity challenge]]
 - [[Movies]]
 - [[Music]]
-- [[Gaming]]
 - [[Poker]]
 
 Browse all articles using the explorer or search.

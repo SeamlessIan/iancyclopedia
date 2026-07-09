@@ -29,10 +29,10 @@ Only serves 2, so multiply.
 Bake onions and potatoes for a total of 25-35 minutes, flipping once near the halfway point to ensure even cooking. Youâll know theyâre done when the onions are brown # and caramelized, and the sweet potatoes are fork tender. Remove from oven and set aside.
 While vegetables are roasting, place pressed tofu in a bowl and use two forks to crumble into small pieces (see photo). Season with fresh parsley, turmeric, and a # healthy pinch each salt and pepper. Set aside.
 1. Once the potatoes and onions are almost done cooking, heat a large skillet over medium-high heat.
-Once hot, add 1/2 Tbsp oil, tofu, and 1 tsp tandoori masala spice. SautÃ© for 5 minutes, stirring occasionally, to dry and brown the tofu. Then remove from skillet and # set aside.
+Once hot, add 1/2 Tbsp oil, tofu, and 1 tsp tandoori masala spice. Sauté for 5 minutes, stirring occasionally, to dry and brown the tofu. Then remove from skillet and # set aside.
 1. Add remaining 1/2 Tbsp oil to the skillet and add kale.
 2. Season with a healthy pinch each salt and pepper, 1 tsp tandoori masala spice blend, and toss to coat.
-3. SautÃ©, stirring frequently, to brown and wilt the kale - about 3-4 minutes.
+3. Sauté, stirring frequently, to brown and wilt the kale - about 3-4 minutes.
 4. Push kale to one side of the pan and add tofu back in to warm.
 5. Turn off heat but keep over burner.
 6. To serve, divide the kale between 2 (or 3) serving plates, top with roasted sweet potatoes and onion, then tofu.\

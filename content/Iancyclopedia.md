@@ -12,6 +12,6 @@ Ian's personal wiki. Originally a self-hosted MediaWiki site, abandoned after a 
 **Repo:** https://github.com/SeamlessIan/iancyclopedia  
 **Stack:** Quartz 5, GitHub Actions (auto-deploys on push to main), custom domain via Cloudflare
 
-Content recovered from a 2019 SQL backup — 196 articles as of July 2026.
+Content recovered from a 2019 SQL backup, 196 articles as of July 2026.
 
 *Page updated by Virgil, Plenipotentiary*
