@@ -25,4 +25,4 @@ My Last Will and Last Inquiry: why is there just one of me? a frozen clone encas
 Precisely what I want to know, cause 80 years seems shorter now  
 Than when my child's mind first caught a glimpse of my own finish line  
 And though reports are widely mixed, I suspect that past it lies a cliff  
-or worse, that I'd prefer the drop to what awaits across the Styx
+or worse, that I'd prefer the void to what awaits across the Styx
