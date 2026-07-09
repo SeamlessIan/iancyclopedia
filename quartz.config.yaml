@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Iancyclopedia
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: Playfair Display
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
