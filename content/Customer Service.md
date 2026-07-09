@@ -15,7 +15,7 @@ On life, and I prefer the month-to-month, lest I'm dissatisfied
 ## Verse 2: Do you have any questions?
 
 Temptation to intemperance, must I be so degenerate?  
-I'm grateful for the life I have, but tell me what's the point of it?  
+I live a life of luxury but wonder what's the point of it?  
 Question two: the sky, why blue? and why am I of the same hue?  
 I've tried to change my tone, yet every time the shade returns anew  
 My Last Will and Last Inquiry: why is there just one of me? a frozen clone encased in ice would be the safest policy.
