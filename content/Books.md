@@ -8,13 +8,13 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 
 ## Reading
 
-### [[The Myth of Sisyphus and Other Essays]] - Albert Camus
+### [[The Myth of Sisyphus]] - Albert Camus
 
 ### [[The Philosophy, Practice, and Science of Crime Scene Investigation (Part I)]] - Robert C. Shaler
-### [[I Will Teach You to be Rich]] - Ramit Sethi
+### [[I Will Teach You to Be Rich]] - Ramit Sethi
 ### [[Traction]] - Gabriel Weinberg
 
-## Read (rÄd)
+## Read (rĕd)
 
 ### [[Little Gold Book]] - Phil Gordon
 
@@ -30,10 +30,10 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 ### [[Spiral Dynamics]] - Don Beck
 ### [[No Country for Old Men]] - Cormac McCarthy
 ### [[The Coddling of the American Mind]] - Greg Lukianoff and Jonathan Haidt
-### [[The Gulag Archipelago: Vol. III]] - Aleksandr Solzhenitsyn
+### [[The Gulag Archipelago Vol. III]] - Aleksandr Solzhenitsyn
 ### [[Every Hand Revealed]] - Gus Hansen
-### [[The Gulag Archipelago: Vol. II]] - Aleksandr Solzhenitsyn
-### [[The Mistletoe Murder: And Other Stories]] - P.D. James
+### [[The Gulag Archipelago Vol. II]] - Aleksandr Solzhenitsyn
+### [[The Mistletoe Murder And Other Stories]] - P.D. James
 ### [[Long Way Down]] - Jason Reynolds
 ### [[ Fear and Loathing on the Campaign Trail '72]] - Hunter S. Thompson
 ### [[Red Dragon]] - Thomas Harris
@@ -58,14 +58,13 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 ### [[Wizard and Glass]] - Stephen King
 ### [[Mr. Mercedes]] - Stephen King
 ### [[The Outsider]] - Stephen King
-### [[One Hundred Years of Solitude]] - Gabriel GarcÃ­a MÃ¡rquez
+### [[One Hundred Years of Solitude]] - Gabriel García Márquez
 ### [[The Lessons of History]] - Will and Ariel Durant
 ### [[The Eye of the World]] - Robert Jordan
 ### [[History of the Peloponnesian War]] - Thucydides
 ### [[We Have Always Lived in the Castle]] - Shirley Jackson
 ### [[Heart of Darkness]] - Joseph Conrad
 ### [[Ready Player One]] - Ernest Cline
-### [[The Power of Habit]]  - Charles Duhigg
 ### [[The Art of Being]] - Erich Fromm
 ### [[The Moon is a Harsh Mistress]] - Robert Heinlein
 ### [[The Whistling Season]] - Ivan Doig
@@ -75,7 +74,6 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 ### [[Finders Keepers]] - Stephen King
 ### [[Dune]] - Frank Herbert
 ### [[A Storm of Swords]] - George R. R. Martin
-### [[A Clash of Kings]] - George R. R. Martin
 ### [[Extreme Ownership]] - Jocko Willink and Leif Babin
 ### [[Deep Work]] - Cal Newport
 ### [[The Putin Interviews]] - Oliver Stone
@@ -93,7 +91,7 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 ### [[Pet Sematary]] - Stephen King
 ### [[Good Strategy, Bad Strategy]] - Richard Rumelt
 ### [[Man's Search for Meaning]] - Victor Frankl
-### [[The Goal: A Process of Ongoing Improvement]] - Eliyahu M. Goldratt
+### [[The Goal A Process of Ongoing Improvement]] - Eliyahu M. Goldratt
 ### [[Homo Deus]] - Yuval Noah Harari
 ### [[On Killing]] - Dave Grossman
 ### [[Cat's Cradle]] - Kurt Vonnegut
@@ -104,7 +102,7 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 ### [[A People's History of the United States]] - Howard Zinn
 ### [[The Heart of Everything There Is]] - Bob Drurin & Tom Clavin
 ### [[The Remains of the Day]] - Kazuo Ishiguro
-### [[The LifeâChanging Magic of Tidying Up: The Japanese Art of Decluttering...]] - Marie Kondo
+### [[The Life-Changing Magic of Tidying Up]] - Marie Kondo
 ### [[Sapiens]] - Yuval Noah Harari
 ### [[The Nightengale]] - Kristin Hannah
 ### [[American Gods]] - Neil Gaiman
@@ -112,7 +110,7 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 ### [[The Charisma Myth]] - Olivia Fox Cabane
 ### [[A Gentleman in Moscow]] - Amor Towles
 ### [[The Last Wish]] - Andrzej Sapkowski
-### [[ Hillbilly Elegy]] - J.D. Vance
+### [[Hillbilly Elegy]] - J.D. Vance
 ### [[Crucial Conversations]] - Al Switzler, Joseph Grenny, Kerry Patterson, and Ron McMillan
 ### [[The Stranger]] - Albert Camus
 ### [[Catch-22]] - Joseph Heller
@@ -121,7 +119,7 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 ### [[The Autobiography of Benvenudo Cellini]] - Benvenudo Cellini
 ### [[Brave New World]] - Alduous Huxley
 ### [[Antifragile]] - Nassim Nicholas Taleb
-### [[Super Rich]] - Russell Simmons
+### [[Super Rich - Russell Simmons|Super Rich]] - Russell Simmons
 ### [[The Good Earth]] - Pearl S. Buck
 ### Norse Mythology - Neil Gaiman
 ### Better - Atul Gawande
@@ -132,7 +130,7 @@ Hari's list so I have more ideas later: https://www.notion.so/Reading-e47f588d88
 
 - Read March 2017
 
-### Linchpin â Seth Godin
+### Linchpin - Seth Godin
 
 - Read March 2017
 - Summary: Care about what you're doing.
@@ -215,7 +213,7 @@ Finished October, 2016. Interesting allegory. I was surprised to find that C.S. 
   - valise
   - schlemiel
   - epistolary
-  - rouÃ©
+  - roué
   - boites
   - eructation
 
@@ -242,10 +240,10 @@ First read in 2013; audiobook finished around 2014-04-20
 ### The Fountainhead - Ayn Rand
 ### Fight Club - Chuck Palahniuk
 
-## Read (rÄd)
+## Read (rēd)
 ### [[The Feeling Good Handbook]] - David Burns
 ### [[Selected Writings and Teachings of Marcus Garvey]]
-### [[DokkÅdÅ]] - Miyamoto Musashi
+### [[Dokkōdō]] - Miyamoto Musashi
 ### [[(some Mustafa Kemal biography)]]
 ### [[High Output Management]] - Andrew Grove
 ### Eat that Frog! by Brian Tracy
@@ -300,17 +298,17 @@ Recommended by Mom, May 2019
 ### Younger You - Eric Braverman
 ### 150 Healthiest Foods - Jonny Bowde
 ### How To Grow Fresh Air - B.C. Wolverton
-### Nelson Mandelaâs 600 page autobiography
+### Nelson Mandela's 600 page autobiography
 ### Driven From Within - Michael Jordan
 ### Branden books
 ### Mastery - George Leonard
 ### Awaken the Giant Within - Tony Robbins
-### The Narrow Road â Felix Dennis
+### The Narrow Road - Felix Dennis
 ### Way of the Superior Man - David Deida
-### The Iliad â Homer
-### Odyssey â Homer
+### The Iliad - Homer
+### Odyssey - Homer
 ### Great by Choice - Jim Collins
-### Tribal Leadership â Dave Logan
+### Tribal Leadership - Dave Logan
 ### Do You! - Russell Simmons
 ### John Carlton's marketing stuff
 ### Warrior of the Light - Paulo Coelho
@@ -367,7 +365,7 @@ Recommended by Mom, May 2019
 ### On the Shortness of Life - Seneca
 ### How to Read a Book - Mortimer J Adler
 ### Levels of Energy - Frederick E Dodson
-### The Entrepreneurâs Guide To Getting Your Shit Together - John Carlton
+### The Entrepreneur's Guide To Getting Your Shit Together - John Carlton
 ### Unleash the Warrior Within  - Richard Mack Machowicz
 ### Power: a User's Guide
 ### Wabi-Sabi for Artists, Designers, Poets & Philosophers - Leonard Koren
@@ -382,10 +380,10 @@ Recommended by Mom, May 2019
 ### [[One Up on Wall Street]] - Peter Lynch
 ### [[Iron John]] - Robert Bly
 ### [[Fall River Dreams]] - Bill Reynolds
-### [[Hopscotch]] -  Julio CortÃ¡zar
-### [ https://en.m.wikipedia.org/wiki/Stranger_in_a_Strange_Land stranger in a strange land   https://en.m.wikipedia.org/wiki/Stranger_in_a_Strange_Land stranger in a strange land]
+### [[Hopscotch]] -  Julio Cortázar
+### [[Stranger in a Strange Land]] - Robert A. Heinlein
 ### [[Civilization before Greece and Rome]] - H. W. F. Saggs
-### [[You and Your Research]] - Richard Hamming [[http://www.cs.virginia.edu/~robins/YouAndYourResearch.html text here]]
+### [[You and Your Research]] - Richard Hamming
 ### [[Timequake]] and [[Player Piano]] by Kurt Vonnegut
 ### Mating in captivity
 ### [[Freedom]] - Jonathan Franzen
@@ -416,7 +414,7 @@ Recommended by Mom, May 2019
 ### [[The Island]] - Aldous Huxley
 ### [[Rules of Civility]] - Amor Towles
 ### [[Gratitude]] - Oliver Sachs
-### The Good Soldier Å vejk - Jaroslav HaÅ¡ek
+### The Good Soldier Švejk - Jaroslav Hašek
 Highly entertaining, but I'm not sure I'm up for 700 pages of it. I would consider finishing if just for the great lexicon of the translator.
 #### Vocab
 

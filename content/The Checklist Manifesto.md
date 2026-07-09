@@ -22,7 +22,7 @@ A good checklist should have the following qualities:
 - Taylorized: Named after Frederick Winslow Taylor, author of The Principles of Scientific Management. Seems to have to do with industrializing and standardizing a process, possibly with the implication that some amount of human touch has been lost.
 - Sanguine - Optimistic or positive, especially in an apparently bad or difficult situation
 - Cockamamie - ridiculous, implausible
-- Laporoscopic (surgery) - aka Minimally Invasive Surgery, bandaid surgery, or keyhole surgery, is a  modern surgical technique in which operations are performed far from their location through small incisions (usually 0.5â1.5 cm) elsewhere in the body. Usually CO2 is insufflated into the region to provide a working space, because CO2 is non-flammable and can easily be absorbed and purged from the body via respiration
+- Laporoscopic (surgery) - aka Minimally Invasive Surgery, bandaid surgery, or keyhole surgery, is a  modern surgical technique in which operations are performed far from their location through small incisions (usually 0.5-1.5 cm) elsewhere in the body. Usually CO2 is insufflated into the region to provide a working space, because CO2 is non-flammable and can easily be absorbed and purged from the body via respiration
 - Jug-eared - having protuberant ears
 - (Protuberant - protruding, bulging)
 - Parquet - the ground floor of a theate or auditorium, or flooring composed of wooden blocks arranged in a geometric pattern

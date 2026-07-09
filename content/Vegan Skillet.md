@@ -26,7 +26,7 @@ Only serves 2, so multiply.
 2. wrap tofu in a clean towel and set something heavy on top (such as a cast-iron skillet) to press out excess moisture.
 3. In the meantime, season sweet potatoes with 1/2 Tbsp oil, 1 tsp tandoori masala spice, coconut sugar, and a pinch each salt and pepper. Toss to coat.
 4. Season onion with 1/2 Tbsp oil, 1/4 tsp tandoori spice, and a pinch each salt and pepper. Toss to coat.
-Bake onions and potatoes for a total of 25-35 minutes, flipping once near the halfway point to ensure even cooking. Youâll know theyâre done when the onions are brown # and caramelized, and the sweet potatoes are fork tender. Remove from oven and set aside.
+Bake onions and potatoes for a total of 25-35 minutes, flipping once near the halfway point to ensure even cooking. You'll know they're done when the onions are brown # and caramelized, and the sweet potatoes are fork tender. Remove from oven and set aside.
 While vegetables are roasting, place pressed tofu in a bowl and use two forks to crumble into small pieces (see photo). Season with fresh parsley, turmeric, and a # healthy pinch each salt and pepper. Set aside.
 1. Once the potatoes and onions are almost done cooking, heat a large skillet over medium-high heat.
 Once hot, add 1/2 Tbsp oil, tofu, and 1 tsp tandoori masala spice. Sauté for 5 minutes, stirring occasionally, to dry and brown the tofu. Then remove from skillet and # set aside.

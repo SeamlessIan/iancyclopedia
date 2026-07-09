@@ -15,7 +15,7 @@ Serves 4 to 6
 - Spoon
 
 ### Ingredients
-- 1 cup uncooked quinoa (any variety â white or golden, red, or black)
+- 1 cup uncooked quinoa (any variety - white or golden, red, or black)
 - Olive oil, optional
 - 2 cups water or broth
 - 1/2 teaspoon salt
@@ -33,7 +33,7 @@ Instructions
 4. Lower heat and cook, covered, for 15 minutes. Turn heat down to the lowest setting. Cover and cook for 15 minutes.
 5. Let stand, covered, for 5 minutes: Remove the pot from heat and let stand for 5 more minutes, covered. Don't peek!
 
-Fluff and eat! Remove the lid â You should see tiny spirals (the germ) separating from and curling around the quinoa seeds. Fluff the quinoa gently with a fork, and serve. If any liquid remains in the bottom of the pan or if the quinoa is still a bit crunchy, return the pot to low heat and cook, covered, for another 5 minutes, until all the water has been absorbed.
+Fluff and eat! Remove the lid - You should see tiny spirals (the germ) separating from and curling around the quinoa seeds. Fluff the quinoa gently with a fork, and serve. If any liquid remains in the bottom of the pan or if the quinoa is still a bit crunchy, return the pot to low heat and cook, covered, for another 5 minutes, until all the water has been absorbed.
 
 Instructions
 Rinse the quinoa: Measure 1 cup of quinoa and place into a fine-mesh strainer. Rinse thoroughly with cool water for about 2 minutes. Rub and swish the quinoa with your hand while rinsing. Drain.
@@ -46,4 +46,4 @@ Lower heat and cook, covered, for 15 minutes. Turn heat down to the lowest setti
 
 Let stand, covered, for 5 minutes: Remove the pot from heat and let stand for 5 more minutes, covered. Don't peek!
 
-Fluff and eat! Remove the lid â You should see tiny spirals (the germ) separating from and curling around the quinoa seeds. Fluff the quinoa gently with a fork, and serve. If any liquid remains in the bottom of the pan or if the quinoa is still a bit crunchy, return the pot to low heat and cook, covered, for another 5 minutes, until all the water has been absorbed.
+Fluff and eat! Remove the lid - You should see tiny spirals (the germ) separating from and curling around the quinoa seeds. Fluff the quinoa gently with a fork, and serve. If any liquid remains in the bottom of the pan or if the quinoa is still a bit crunchy, return the pot to low heat and cook, covered, for another 5 minutes, until all the water has been absorbed.

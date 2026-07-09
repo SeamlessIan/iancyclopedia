@@ -34,17 +34,17 @@ This is a checklist for use in scheduling, conducting, and following up on meeti
 4. Schedule follow-up contact or meeting
 
 ## How to Sabotage a Meeting
-(From the Office of Strategic Servicesâ "Simple Sabotage Field Manual")
+(From the Office of Strategic Services "Simple Sabotage Field Manual")
 
-â(11) General Interference with Organizations and Production
+"(11) General Interference with Organizations and Production
 
 (a) Organizations and Conferences 
  
-(1) Insist on doing everything through âchannels.â Never permit short-cuts to be taken in order to expedite decisions.
+(1) Insist on doing everything through "channels." Never permit short-cuts to be taken in order to expedite decisions.
 
-(2) Make âspeeches.â Talk as frequently as possible and at great length. Illustrate your âpointsâ by long anecdotes and accounts of personal experiences. Never hesitate to make a few appropriate âpatrioticâ comments.
+(2) Make "speeches." Talk as frequently as possible and at great length. Illustrate your "points" by long anecdotes and accounts of personal experiences. Never hesitate to make a few appropriate "patriotic" comments.
 
-(3) When possible, refer all matters to committees, for âfurther study and consideration.â Attempt to make the committees as large as possibleââânever less than five.
+(3) When possible, refer all matters to committees, for "further study and consideration." Attempt to make the committees as large as possible-never less than five.
 
 (4) Bring up irrelevant issues as frequently as possible.
 
@@ -52,7 +52,7 @@ This is a checklist for use in scheduling, conducting, and following up on meeti
 
 (6) Refer back to matters decided upon at the last meeting and attempt to re-open the question of the advisability of that decision.
 
-(7) Advocate âcaution.â Be âreasonableâ and urge your fellow-conferees to be âreasonableâ and avoid haste which might result in embarrassments or difficulties later on.
+(7) Advocate "caution." Be "reasonable" and urge your fellow-conferees to be "reasonable" and avoid haste which might result in embarrassments or difficulties later on.
 
-(8) Be worried about the propriety of any decisionâââraise the question of whether such action as is contemplated lies within the jurisdiction of the group or whether it might conflict with the policy of some higher echelon.â
+(8) Be worried about the propriety of any decision-raise the question of whether such action as is contemplated lies within the jurisdiction of the group or whether it might conflict with the policy of some higher echelon."
 
