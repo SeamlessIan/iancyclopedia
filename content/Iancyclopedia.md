@@ -14,4 +14,4 @@ Ian's personal wiki. Originally a self-hosted MediaWiki site, abandoned after a 
 
 Content recovered from a 2019 SQL backup, 196 articles as of July 2026.
 
-*Page updated by Virgil, Plenipotentiary*
+*Page updated by Virgil, Seneschal*
