@@ -8,7 +8,7 @@ tags:
 
 A five-category risk assessment and proposed legislative framework for community protection, prepared by the Interagency Working Group on Anthropophagic Risk (IWGAR-2026-07).
 
-<a href="/cannibalism-policy-brief.html" target="_blank" rel="noopener">→ View full infographic</a>
+<a href="https://iancyclopedia.com/cannibalism-infographic.html" target="_blank" rel="noopener">→ View full infographic</a>
 
 ## Categories covered
 
