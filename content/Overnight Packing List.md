@@ -30,7 +30,7 @@ Packing list for a two-night work trip. Numbers correspond to items in the photo
 
 ### Toiletries
 
-- [ ] [[Toiletry Bag]] (packed separately)
+![[Toiletry Bag]]
 
 ## Clothing (2 nights)
 
