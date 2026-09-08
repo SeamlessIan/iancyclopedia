@@ -28,10 +28,6 @@ Packing list for a two-night work trip. Numbers correspond to items in the photo
 - [ ] 12. Laptop power adapter
 - [ ] 13. Clipboard + paper
 
-### Toiletries
-
-![[Toiletry Bag]]
-
 ## Clothing (2 nights)
 
 ### Dress
@@ -53,8 +49,13 @@ Packing list for a two-night work trip. Numbers correspond to items in the photo
 ### Undergarments
 - [ ] 3× underwear + socks
 
+### Toiletries
+
+![[Toiletry Bag]]
+
 ## Don't forget
 
 - [ ] Phone + charger
 - [ ] Wallet, keys, ID
 - [ ] Water bottle
+- [ ] Gum
