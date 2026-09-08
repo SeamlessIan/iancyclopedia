@@ -34,12 +34,24 @@ Packing list for a two-night work trip. Numbers correspond to items in the photo
 
 ## Clothing (2 nights)
 
-- [ ] 3× shirts
-- [ ] 2× pants / jeans
-- [ ] 3× underwear + socks
-- [ ] Pajamas
+### Dress
+- [ ] 3× dress shirts
+- [ ] 1× dress pants
+- [ ] Sports coat
 - [ ] Belt
-- [ ] Shoes (if not worn)
+- [ ] Dress shoes
+
+### Casual
+- [ ] 2× casual shirts
+- [ ] 1× jeans
+- [ ] Casual shoes
+
+### Gym
+- [ ] Exercise shorts
+- [ ] Exercise shirt
+
+### Undergarments
+- [ ] 3× underwear + socks
 
 ## Don't forget
 
