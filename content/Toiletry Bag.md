@@ -18,5 +18,5 @@ date: 2017-12-17
 - [ ] 9. Glasses case
 - [ ] 10. Comb
 - [ ] 11. Razor handle
-- [ ] 12. Razor blade cartridges
+- [ ] 12. Extra contact lenses
 - [ ] 13. Razor case
