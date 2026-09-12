@@ -20,3 +20,5 @@ date: 2017-12-17
 - [ ] 11. Razor handle
 - [ ] 12. Extra contact lenses
 - [ ] 13. Razor case
+- [ ] ID badge
+- [ ] Grooming kit
